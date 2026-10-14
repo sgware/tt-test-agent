@@ -7,8 +7,9 @@ proposed actions.
 ## Download and Documentation
 
 This library is written in pure Java and depends on the
-[Tandem Tales Server Library](https://github.com/sgware/tt-server). You can
-download a [pre-built JAR](build/jar) with with the dependencies included.
+[Tandem Tales Java client library](https://github.com/sgware/tt-client-java).
+You can download a [pre-built JAR](build/jar) with with the dependencies
+included.
 
 You can build this project from source using [Maven](https://maven.apache.org/):
 ```

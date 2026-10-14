@@ -40,11 +40,11 @@
   </properties>
   <!-- Dependencies -->
   <dependencies>
-    <!-- Tandem Tales Server -->
+    <!-- Tandem Tales Client (Java) -->
     <dependency>
       <groupId>edu.uky.cs.nil.tt</groupId>
-      <artifactId>tt-server</artifactId>
-      <version>0.9.1</version>
+      <artifactId>tt-client-java</artifactId>
+      <version>0.10.0</version>
     </dependency>
   </dependencies>
   <!-- Build -->
